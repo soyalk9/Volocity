@@ -63,3 +63,39 @@ Docs for Volocity Bot
  > 
  > Example: v!unban @𓆩𝐢𝐓𝐳𝐌𝐞𝐒𝐨𝐲𝐚𝐋𓆪
 
+
+# Utility Commands
+
+**invite**
+> v!invite 
+
+**avatar** 
+> v!avatar @user 
+> 
+> Example: v!avatar @𓆩𝐢𝐓𝐳𝐌𝐞𝐒𝐨𝐲𝐚𝐋𓆪
+
+**ping**
+> v!ping 
+
+**botinfo**
+> v!botinfo 
+
+**userinfo**
+> v!userinfo @user
+> 
+> v!userinfo @𓆩𝐢𝐓𝐳𝐌𝐞𝐒𝐨𝐲𝐚𝐋𓆪
+
+**serverinfo**
+> v!serverinfo 
+
+**membercount**
+> v!membercount 
+
+**permissions**
+> v!permissions @user
+> 
+> Example: v!permissions @𓆩𝐢𝐓𝐳𝐌𝐞𝐒𝐨𝐲𝐚𝐋𓆪
+
+
+
+
