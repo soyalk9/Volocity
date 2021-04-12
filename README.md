@@ -9,7 +9,8 @@ Docs for Volocity Bot
 ## Moderation Commands 
 
 **Giveaway**
-> v!giveaway time #channel Prize
+> v!giveaway time #channel Prize 
+>
 > Example: v!giveaway 5m #giveaway Volocity Premium
  
  
